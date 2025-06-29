@@ -78,8 +78,8 @@ App must be in Development or Live Mode
 
 Screenshots
 Flow	Screenshot
-API Test	![Postman Test](screenshots/postman-test.png)
-Meta Setup ![Message Sent](screenshots/message-success.png)
+API Test	![Postman Test](Postman-test.jpg)
+Meta Setup ![Message Sent](Postman-message.jpg)
 
 👤 Author
 Name: Azeem Khan
